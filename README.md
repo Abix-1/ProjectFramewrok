@@ -61,12 +61,10 @@ JUJUR GK TAU
 | :---: | :--- | :--- |
 | `000000001` | **Hermawan Setiawan** | [@username1](https://github.com) |
 | `000000002` | **I Nyoman Arjun Setiawan** | [@username2](https://github.com) |
-| `2501010285` | **Ida Bagus Wibawa** | [@username3](https://github.com) |
+| `2501010285` | **Ida Bagus Wibawa** | [@guswii](https://github.com/guswii) |
 | `000000001` | **Isi Wok** | [@username1](https://github.com) |
 | `000000001` | **Isi Wok** | [@username1](https://github.com) |
 
 ---
-
-## 📄 Lisensi
 
 Projek ini dibuat untuk keperluan akademis mata kuliah **Pemrograman Web Framework**.
