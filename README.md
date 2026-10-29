@@ -20,23 +20,6 @@
 
 ---
 
-<!-- TARUH GAMBAR APLIKASI DI SINI -->
-<!-- Simpan foto di folder repository (misal: public/img/ atau .github/screenshots/) lalu ganti URL/path gambar di bawah -->
-
-<div align="center">
-
-| Dashboard Utama | Halaman Login / Auth |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/600x350.png?text=Preview+Dashboard+Laravel" width="450" alt="Dashboard Preview"> | <img src="https://via.placeholder.com/600x350.png?text=Preview+Login+Laravel" width="450" alt="Login Preview"> |
-
-| Halaman Kelola Data (CRUD) | Detail / Fitur Spesifik |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/600x350.png?text=Preview+CRUD+Form" width="450" alt="CRUD Preview"> | <img src="https://via.placeholder.com/600x350.png?text=Preview+Fitur+Utama" width="450" alt="Fitur Preview"> |
-
-</div>
-
----
-
 ## 📌 Tentang Project
 
 Nama Project gk ada WOK adalah aplikasi web yang dirancang untuk gk tau SUKI. Sistem ini memanfaatkan arsitektur MVC (Model-View-Controller) milik Laravel untuk memastikan kode tetap terstruktur, aman, dan *scalable*.
@@ -49,8 +32,7 @@ JUJUR GK TAU
 
 - **Framework**: [Laravel 10.x / 11.x](https://laravel.com)
 - **Language**: PHP 8.2+
-- **Database**: MySQL
-- **Frontend**: Blade Templating, Tailwind CSS / Bootstrap 5, Alpine.js
+- **Frontend**: Blade Templating, Tailwind CSS, Alpine.js
 - **Version Control**: Git & GitHub
 
 ---
