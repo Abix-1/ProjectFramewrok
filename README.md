@@ -9,8 +9,6 @@
   
   [![Laravel](https://img.shields.io/badge/Laravel-v10.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
   [![PHP](https://img.shields.io/badge/PHP-v8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
-  [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
   <p align="center">
     Sistem berbasis web modern yang dibangun menggunakan framework Laravel untuk memenuhi tugas kelompok Pemrograman Web Framework.
@@ -25,7 +23,9 @@
 Nama Project gk ada WOK adalah aplikasi web yang dirancang untuk gk tau SUKI. Sistem ini memanfaatkan arsitektur MVC (Model-View-Controller) milik Laravel untuk memastikan kode tetap terstruktur, aman, dan *scalable*.
 
 ### ✨ Fitur Utama
-JUJUR GK TAU
+
+gk tau apa kaden fiturnya
+
 ---
 
 ## 🛠️ Tech Stack
