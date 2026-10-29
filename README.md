@@ -44,7 +44,7 @@ gk tau apa kaden fiturnya
 | `000000001` | **Hermawan Setiawan** | [@username1](https://github.com) |
 | `2501010286` | **I Nyoman Arjun Setiawan** | [@ArjunS](https://github.com/arjunsetiawan020605-wq) |
 | `2501010285` | **Ida Bagus Wibawa** | [@guswii](https://github.com/guswii) |
-| `000000001` | **Isi Wok** | [@username1](https://github.com) |
+| `2501010234` | **Komang Abie Raditya Mahotama** | [@Abix-1](https://github.com) |
 | `000000001` | **Isi Wok** | [@username1](https://github.com) |
 
 ---
