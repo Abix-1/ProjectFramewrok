@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Logo Framework / Logo Aplikasi -->
-  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logomark-1-full-color.svg" width="120" alt="Laravel Logo">
+  <!-- Laravel -->
+  <img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" width="120" alt="Laravel Logo">
 
   # BELUM di tentukan EDMIN
 
